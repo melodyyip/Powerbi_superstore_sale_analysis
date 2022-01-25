@@ -8,4 +8,6 @@ Dataset description: Retail dataset of a global superstore for 4 years.
 Sharing the glimpse of my first dashboard created using Power BI reporting the company sales from 2014 to 2017 in United States.
 
 Power BI dashboard:
-![image](https://user-images.githubusercontent.com/32995324/151040187-c9b11a70-9e40-4bd5-a6d5-862fbb5f2cf8.png)
+
+https://user-images.githubusercontent.com/32995324/151041578-7b8452d6-774d-40c2-b1fb-868a9ca6c361.mp4
+
